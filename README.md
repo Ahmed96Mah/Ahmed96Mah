@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ahmed Mahmoud
-- 👀 I’m interested in Front-End WebDev
-- 🌱 I’m currently learning Front-End Materials
-- 💞️ I’m looking to collaborate on Anything related to front-end to improve my skills
+- 👋 Hi, I’m Ahmed Mahmoud Abdalwahab
+- 👀 I’m a Full-Stack Web Developer
+- 🌱 I’m currently learning web development frameworks
+- 💞️ I’m looking to collaborate on Anything related to front-end (or full-stack) to improve my skills
 - 📫 How to reach me ahmed96mahmoud1996@gmail.com
 
 <!---
